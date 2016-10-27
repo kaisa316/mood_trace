@@ -9,3 +9,7 @@ mood_trace
 这次我重拾git，这次要将它用熟。20161027
 
 here is master
+
+这是我在remote端的修改
+
+
